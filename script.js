@@ -1,1 +1,1 @@
-let a = document.queryselector("h1").style.color = "blue"
+let a = document.querySelector("h1").style.color = "blue"
